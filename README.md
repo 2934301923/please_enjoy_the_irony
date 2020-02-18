@@ -26,6 +26,6 @@ source /etc/bash.bashrc
 
 # 联系我
 
-QQ：2934301936
+QQ：2934301936<br>
 邮箱：hlyAndroid@163.com
 

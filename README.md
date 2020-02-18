@@ -24,6 +24,9 @@ fi
 source /etc/bash.bashrc
 ```
 
+# 码云地址
+https://gitee.com/ForMat1_admin/please_enjoy_the_irony.git
+
 # 联系我
 
 QQ：2934301936<br>

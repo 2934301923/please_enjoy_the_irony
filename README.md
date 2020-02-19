@@ -6,7 +6,7 @@
 更改自 bash-insulter
 原项目地址:https://github.com/hkbakke/bash-insulter
 #### 安装教程
-这是一个脚本文件，运行在Bash终端上，请在文件底部添加以下内容<br>
+这是一个脚本文件，运行在Bash终端上，请在/etc/bash.bashrc文件底部添加以下内容<br>
 
 
 ```
